@@ -1,8 +1,8 @@
 # -Design-a-wireframe-diagram-for-a-generic-application-or-website-using-Balsamiq-
 
-# NAME : JAVAN RUFUS J
+# NAME : Gokul S
 
-# Reg no: 212224230104
+# Reg no: 212224240044
 
 # AIM:
 Design a wireframe diagram for a generic application or website using Balsamiq, including at least 5 essential screens/pages: Welcome/Splash Screen.
